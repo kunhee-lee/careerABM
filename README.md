@@ -15,6 +15,8 @@ It starts with randomly located persons, with a few entrepreneurs. Here is a des
     -- Employees can go bankrupt
     -- Rent price proportional to occupier's wealth
 
+You can run the simulation with careerMain.m.
+
 Please feel free to use this however you see fit!
 
 
